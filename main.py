@@ -53,3 +53,34 @@ fase1 = [
 ]
 
 executar_fase(fase1)
+time.sleep(5)
+pydirectinput.press("right")
+pydirectinput.press("x")
+time.sleep(5)
+
+fase2 = [
+    (1, "right"),
+    (6, "up"),
+    (2, "right"),
+    (2, "down"),
+    (1, "right"),
+    (1, "up"),
+    (1, "right"),
+    (1, "up"),
+    (2, "right"),
+    (1, "down"),
+    (1, "right"),
+    (3, "down"),
+    (2, "left"),
+    (1, "down"),
+    (1, "right"),
+    (1, "down"),
+    (1, "left"),
+    (2, "left"),
+    (1, "up"),
+    (1, "left"),
+    (1, "down"),
+    (1, "left"),
+]
+
+executar_fase(fase2)
