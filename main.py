@@ -13,6 +13,13 @@ def executar_fase(fase):
     for passos, direcao in fase:
         quantidade_passos(passos, direcao)
 
+# Função para mudar de fase
+def troca_fase():
+    time.sleep(5)
+    pydirectinput.press("right")
+    pydirectinput.press("x")
+    time.sleep(5)
+
 # Entra no chrome e entra no woodworm
 pg.press("win")
 time.sleep(2)
@@ -53,10 +60,7 @@ fase1 = [
 ]
 
 executar_fase(fase1)
-time.sleep(5)
-pydirectinput.press("right")
-pydirectinput.press("x")
-time.sleep(5)
+troca_fase()
 
 fase2 = [
     (1, "right"),
