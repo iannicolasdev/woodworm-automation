@@ -71,3 +71,20 @@ fase2 = [
 ]
 
 run_stage(fase2)
+next_stage()
+
+fase3 = [
+    (1, "right"),
+    (1, "up"),
+    (4, "right"),
+    (3, "up"),
+    (2, "left"),
+    (1, "down"),
+    (1, "right"),
+    (1, "down"),
+    (1, "left"),
+    (1, "up"),
+    (6, "right")
+]
+
+run_stage(fase3)
