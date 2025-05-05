@@ -1,7 +1,8 @@
 import pyautogui as pg
 import pydirectinput 
 import time
-from functions import run_stage, move_steps, next_stage 
+from functions import run_stage, move_steps, next_stage
+from levels import * 
 
 # Entra no chrome e entra no woodworm
 pg.press("win")
@@ -25,80 +26,17 @@ time.sleep(1)
 pydirectinput.press("x")
 time.sleep(8)
 
-# Primira fase
-fase1 = [
-    (3, "right"),
-    (1, "up"),
-    (2, "left"),
-    (4, "up"),
-    (1, "right"),
-    (1, "up"),
-    (4, "right"),
-    (1, "down"),
-    (1, "right"),
-    (3, "down"),
-    (2, "left"),
-    (1, "down"),
-    (1, "right")
-]
-
+# Primeira fase
 run_stage(fase1)
 next_stage()
 
-fase2 = [
-    (1, "right"),
-    (6, "up"),
-    (2, "right"),
-    (2, "down"),
-    (1, "right"),
-    (1, "up"),
-    (1, "right"),
-    (1, "up"),
-    (2, "right"),
-    (1, "down"),
-    (1, "right"),
-    (3, "down"),
-    (2, "left"),
-    (1, "down"),
-    (1, "right"),
-    (1, "down"),
-    (1, "left"),
-    (2, "left"),
-    (1, "up"),
-    (1, "left"),
-    (1, "down"),
-    (1, "left")
-]
-
+# Segunda fase
 run_stage(fase2)
 next_stage()
 
-fase3 = [
-    (1, "right"),
-    (1, "up"),
-    (4, "right"),
-    (3, "up"),
-    (2, "left"),
-    (1, "down"),
-    (1, "right"),
-    (1, "down"),
-    (1, "left"),
-    (1, "up"),
-    (6, "right")
-]
-
+# Terceira fase
 run_stage(fase3)
-next_stage
+next_stage()
 
-fase4 = [
-    (1, "right"),
-    (1, "up"),
-    (1, "right"),
-    (3, "up"),
-    (2, "right"),
-    (3, "down"),
-    (2, "right"),
-    (3, "up")
-]
-
+# Quarta fase
 run_stage(fase4)
