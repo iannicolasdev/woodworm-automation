@@ -40,3 +40,7 @@ next_stage()
 
 # Quarta fase
 run_stage(fase4)
+next_stage()
+
+# Quinta fase
+run_stage(fase5)
