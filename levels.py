@@ -93,3 +93,29 @@ fase5 = [
     (1, "up"),
     (1, "right")
 ]
+
+fase6 = [
+    (1, "right"),
+    (5, "up"),
+    (2, "right"),
+    (1, "down"),
+    (2, "right"),
+    (1, "up"),
+    (1, "left"),
+    (1, "down"),
+    (1, "right"),
+    (2, "up"),
+    (4, "right"),
+    (3, "down"),
+    (2, "left"),
+    (3, "down"),
+    (1, "right"),
+    (2, "up"),
+    (1, "left"),
+    (1, "down"),
+    (4, "left"),
+    (1, "up"),
+    (2, "right"),
+    (1, "up"),
+    (3, "left")
+]
