@@ -48,3 +48,7 @@ next_stage()
 
 # Sexta fase
 run_stage(fase6)
+next_stage()
+
+# Setima fase 
+run_stage(fase7)
