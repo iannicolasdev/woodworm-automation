@@ -142,7 +142,7 @@ fase7 = [
     (5, "left"),
     (1, "up"),
     (1, "left"),
-    (1, "up"),
+    (1, "up")
 ]
 
 fase8 = [
@@ -165,5 +165,41 @@ fase8 = [
     (2, "left"),
     (2, "down"),
     (1, "right"),
+    (1, "up")
+]
+
+fase9 = [
+    (1, "right"),
+    (7, "up"),
+    (4, "right"),
+    (1, "down"),
+    (1, "right"),
+    (1, "down"),
+    (1, "right"),
     (1, "up"),
+    (1, "right"),
+    (1, "down"),
+    (1, "left"),
+    (1, "up"),
+    (1, "right"),
+    (3, "down"),
+    (2, "left"),
+    (1, "up"),
+    (1, "left"),
+    (1, "up"),
+    (1, "left"),
+    (1, "up"),
+    (1, "left"),
+    (1, "up"),
+    (2, "left"),
+    (3, "down"),
+    (1, "right"),
+    (1, "down"),
+    (1, "right"),
+    (1, "down"),
+    (1, "left"),
+    (1, "up"),
+    (1, "right"),
+    (1, "down"),
+    (1, "right")
 ]
