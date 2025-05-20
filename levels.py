@@ -203,3 +203,18 @@ fase9 = [
     (1, "down"),
     (1, "right")
 ]
+
+fase10 = [
+    (1, "right"),
+    (5, "up"),
+    (5, "right"),
+    (4, "down"),
+    (3, "left"),
+    (1, "down"),
+    (2, "right"),
+    (1, "up"),
+    (1, "left"),
+    (3, "up"),
+    (1, "left"),
+    (2, "up")
+]
