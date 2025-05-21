@@ -1,4 +1,4 @@
-fase1 = [
+level1 = [
     (3, "right"),
     (1, "up"),
     (2, "left"),
@@ -14,7 +14,7 @@ fase1 = [
     (1, "right")
 ]
 
-fase2 = [
+level2 = [
     (1, "right"),
     (6, "up"),
     (2, "right"),
@@ -39,7 +39,7 @@ fase2 = [
     (1, "left")
 ]
 
-fase3 = [
+level3 = [
     (1, "right"),
     (1, "up"),
     (4, "right"),
@@ -53,7 +53,7 @@ fase3 = [
     (6, "right")
 ]
 
-fase4 = [
+level4 = [
     (1, "right"),
     (1, "up"),
     (1, "right"),
@@ -64,7 +64,7 @@ fase4 = [
     (3, "up")
 ]
 
-fase5 = [
+level5 = [
     (1, "right"),
     (4, "up"),
     (1, "right"),
@@ -94,7 +94,7 @@ fase5 = [
     (1, "right")
 ]
 
-fase6 = [
+level6 = [
     (1, "right"),
     (5, "up"),
     (2, "right"),
@@ -120,7 +120,7 @@ fase6 = [
     (3, "left")
 ]
 
-fase7 = [
+level7 = [
     (2, "right"),
     (1, "up"),
     (1, "left"),
@@ -145,7 +145,7 @@ fase7 = [
     (1, "up")
 ]
 
-fase8 = [
+level8 = [
     (2, "right"),
     (2, "up"),
     (1, "right"),
@@ -168,7 +168,7 @@ fase8 = [
     (1, "up")
 ]
 
-fase9 = [
+level9 = [
     (1, "right"),
     (7, "up"),
     (4, "right"),
@@ -204,7 +204,7 @@ fase9 = [
     (1, "right")
 ]
 
-fase10 = [
+level10 = [
     (1, "right"),
     (5, "up"),
     (5, "right"),
