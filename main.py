@@ -69,3 +69,7 @@ next_stage()
 # Decima primeira fase
 run_stage(level11)
 next_stage()
+
+# Decima segunda fase
+run_stage(level12)
+next_stage()
