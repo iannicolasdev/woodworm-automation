@@ -218,3 +218,37 @@ level10 = [
     (1, "left"),
     (2, "up")
 ]
+
+level11 = [
+    (1, "right"),
+    (8, "up"),
+    (6, "right"),
+    (1, "down"),
+    (1, "right"),
+    (1, "up"),
+    (1, "left"),
+    (1, "up"),
+    (5, "left"),
+    (1, "down"),
+    (1, "left"),
+    (2, "down"),
+    (2, "right"),
+    (1, "up"),
+    (3, "right"),
+    (1, "down"),
+    (2, "right"),
+    (5, "down"),
+    (1, "left"),
+    (1, "up"),
+    (1, "left"),
+    (2, "up"),
+    (1, "left"),
+    (2, "down"),
+    (1, "left"),
+    (2, "up"),
+    (1, "left"),
+    (1, "down"),
+    (2, "left"),
+    (2, "down"),
+    (1, "right")
+]
