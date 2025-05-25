@@ -281,3 +281,18 @@ level12 = [
     (2, "left"),
     (1, "down")
 ]
+
+level13 = [
+    (2, "right"),
+    (1, "up"),
+    (2, "right"),
+    (2, "up"),
+    (1, "left"),
+    (3, "up"),
+    (3, "right"),
+    (3, "down"),
+    (1, "left"),
+    (2, "down"),
+    (2, "right"),
+    (1, "down")
+]
