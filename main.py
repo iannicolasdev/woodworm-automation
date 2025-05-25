@@ -77,3 +77,7 @@ next_stage()
 # Decima terceira fase
 run_stage(level13)
 next_stage()
+
+# Decima quarta fase
+run_stage(level14)
+next_stage()
