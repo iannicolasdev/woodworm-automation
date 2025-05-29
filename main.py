@@ -27,68 +27,68 @@ pydirectinput.press("x")
 time.sleep(8)
 
 # Primeira fase
-run_stage(level1)
+run_stage(level_1)
 next_stage()
 
 # Segunda fase
-run_stage(level2)
+run_stage(level_2)
 next_stage()
 
 # Terceira fase
-run_stage(level3)
+run_stage(level_3)
 next_stage()
 
 # Quarta fase
-run_stage(level4)
+run_stage(level_4)
 next_stage()
 
 # Quinta fase
-run_stage(level5)
+run_stage(level_5)
 next_stage()
 
 # Sexta fase
-run_stage(level6)
+run_stage(level_6)
 next_stage()
 
 # Setima fase 
-run_stage(level7)
+run_stage(level_7)
 next_stage()
 
 # Oitava fase
-run_stage(level8)
+run_stage(level_8)
 next_stage()
 
 # Nona fase
-run_stage(level9)
+run_stage(level_9)
 next_stage()
 
 # Decima fase
-run_stage(level10)
+run_stage(level_10)
 next_stage()
 
 # Decima primeira fase
-run_stage(level11)
+run_stage(level_11)
 next_stage()
 
 # Decima segunda fase
-run_stage(level12)
+run_stage(level_12)
 next_stage()
 
 # Decima terceira fase
-run_stage(level13)
+run_stage(level_13)
 next_stage()
 
 # Decima quarta fase
-run_stage(level14)
+run_stage(level_14)
 next_stage()
 
 # Decima quinta fase
-run_stage(level15)
+run_stage(level_15)
 next_stage()
 
 # Decima sexta fase
-run_stage(level16)
+run_stage(level_16)
 next_stage()
 
 # Decima setima fase
-run_stage(level17)
+run_stage(level_17)

@@ -1,4 +1,4 @@
-level1 = [
+level_1 = [
     (3, "right"),
     (1, "up"),
     (2, "left"),
@@ -14,7 +14,7 @@ level1 = [
     (1, "right")
 ]
 
-level2 = [
+level_2 = [
     (1, "right"),
     (6, "up"),
     (2, "right"),
@@ -39,7 +39,7 @@ level2 = [
     (1, "left")
 ]
 
-level3 = [
+level_3 = [
     (1, "right"),
     (1, "up"),
     (4, "right"),
@@ -53,7 +53,7 @@ level3 = [
     (6, "right")
 ]
 
-level4 = [
+level_4 = [
     (1, "right"),
     (1, "up"),
     (1, "right"),
@@ -64,7 +64,7 @@ level4 = [
     (3, "up")
 ]
 
-level5 = [
+level_5 = [
     (1, "right"),
     (4, "up"),
     (1, "right"),
@@ -94,7 +94,7 @@ level5 = [
     (1, "right")
 ]
 
-level6 = [
+level_6 = [
     (1, "right"),
     (5, "up"),
     (2, "right"),
@@ -120,7 +120,7 @@ level6 = [
     (3, "left")
 ]
 
-level7 = [
+level_7 = [
     (2, "right"),
     (1, "up"),
     (1, "left"),
@@ -145,7 +145,7 @@ level7 = [
     (1, "up")
 ]
 
-level8 = [
+level_8 = [
     (2, "right"),
     (2, "up"),
     (1, "right"),
@@ -168,7 +168,7 @@ level8 = [
     (1, "up")
 ]
 
-level9 = [
+level_9 = [
     (1, "right"),
     (7, "up"),
     (4, "right"),
@@ -204,7 +204,7 @@ level9 = [
     (1, "right")
 ]
 
-level10 = [
+level_10 = [
     (1, "right"),
     (5, "up"),
     (5, "right"),
@@ -219,7 +219,7 @@ level10 = [
     (2, "up")
 ]
 
-level11 = [
+level_11 = [
     (1, "right"),
     (8, "up"),
     (6, "right"),
@@ -253,7 +253,7 @@ level11 = [
     (1, "right")
 ]
 
-level12 = [
+level_12 = [
     (2, "right"),
     (1, "up"),
     (2, "right"),
@@ -282,7 +282,7 @@ level12 = [
     (1, "down")
 ]
 
-level13 = [
+level_13 = [
     (2, "right"),
     (1, "up"),
     (2, "right"),
@@ -297,7 +297,7 @@ level13 = [
     (1, "down")
 ]
 
-level14 = [
+level_14 = [
     (1, "right"),
     (3, "up"),
     (4, "right"),
@@ -320,7 +320,7 @@ level14 = [
     (2, "down")
 ]
 
-level15 = [ 
+level_15 = [ 
     (3, "right"),
     (1, "up"),
     (1, "right"),
@@ -353,7 +353,7 @@ level15 = [
     (1, "up"),
 ]
 
-level16 = [
+level_16 = [
     (1, "right"),
     (3, "up"),
     (1, "right"),
@@ -408,7 +408,7 @@ level16 = [
     (1, "down")
 ]
 
-level17 = [
+level_17 = [
     (1, "right"),
     (1, "up"),
     (1, "right"),
