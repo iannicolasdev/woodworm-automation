@@ -3,18 +3,17 @@ import pydirectinput
 import time
 from functions import run_stage, move_steps, next_stage
 from levels import * 
+import subprocess
 
 # Entra no chrome e entra no woodworm
-pg.press("win")
-time.sleep(2)
-pg.write("chrome")
-pg.press("enter")
-time.sleep(2)
-pg.write("https://spratt.itch.io/woodworm")
-pg.press("enter")
-time.sleep(5)
+subprocess.Popen([
+    "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "--incognito",
+    "https://spratt.itch.io/woodworm"
+])
 
 # Posição do click: x=950, y=450
+time.sleep(5)
 pg.click(x=950, y=450)
 time.sleep(8)
 
