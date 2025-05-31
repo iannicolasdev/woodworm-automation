@@ -5,19 +5,19 @@ from functions import run_stage, move_steps, next_stage
 from levels import * 
 import subprocess
 
-# Entra no chrome e entra no woodworm
+# Abre o Chrome e acessa o jogo Woodworm / Open Chrome and access the Woodworm game
 subprocess.Popen([
     "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
     "--incognito",
     "https://spratt.itch.io/woodworm"
 ])
 
-# Posição do click: x=950, y=450
+# Inicia o jogo / Starts the game
 time.sleep(5)
 pg.click(x=950, y=450)
 time.sleep(8)
 
-# Inicia o jogo selecionando a primeira fase
+# Entra no menu de fases e seleciona a primeira / Enters the level menu and selects the first one
 pydirectinput.press("x")
 time.sleep(1)
 pydirectinput.press("x")
@@ -25,69 +25,69 @@ time.sleep(1)
 pydirectinput.press("x")
 time.sleep(8)
 
-# Primeira fase
+# Primeira fase / First level
 run_stage(level_1)
 next_stage()
 
-# Segunda fase
+# Segunda fase / Second level
 run_stage(level_2)
 next_stage()
 
-# Terceira fase
+# Terceira fase / Third level
 run_stage(level_3)
 next_stage()
 
-# Quarta fase
+# Quarta fase / Fourth level
 run_stage(level_4)
 next_stage()
 
-# Quinta fase
+# Quinta fase / Fifth level
 run_stage(level_5)
 next_stage()
 
-# Sexta fase
+# Sexta fase / Sixth level
 run_stage(level_6)
 next_stage()
 
-# Setima fase 
+# Sétima fase / Seventh level
 run_stage(level_7)
 next_stage()
 
-# Oitava fase
+# Oitava fase / Eighth level
 run_stage(level_8)
 next_stage()
 
-# Nona fase
+# Nona fase / Ninth level
 run_stage(level_9)
 next_stage()
 
-# Decima fase
+# Décima fase / Tenth level
 run_stage(level_10)
 next_stage()
 
-# Decima primeira fase
+# Décima primeira fase / Eleventh level
 run_stage(level_11)
 next_stage()
 
-# Decima segunda fase
+# Décima segunda fase / Twelfth level
 run_stage(level_12)
 next_stage()
 
-# Decima terceira fase
+# Décima terceira fase / Thirteenth level
 run_stage(level_13)
 next_stage()
 
-# Decima quarta fase
+# Décima quarta fase / Fourteenth level
 run_stage(level_14)
 next_stage()
 
-# Decima quinta fase
+# Décima quinta fase / Fifteenth level
 run_stage(level_15)
 next_stage()
 
-# Decima sexta fase
+# Décima sexta fase / Sixteenth level
 run_stage(level_16)
 next_stage()
 
-# Decima setima fase
+# Décima sétima fase / Seventeenth level
 run_stage(level_17)
