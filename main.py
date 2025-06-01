@@ -1,9 +1,9 @@
 import pyautogui as pg
 import pydirectinput 
+import subprocess
 import time
 from functions import run_stage, move_steps, next_stage
 from levels import * 
-import subprocess
 
 # Abre o Chrome e acessa o jogo Woodworm / Open Chrome and access the Woodworm game
 subprocess.Popen([
